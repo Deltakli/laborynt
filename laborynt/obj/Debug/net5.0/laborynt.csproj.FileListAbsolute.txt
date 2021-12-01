@@ -1,0 +1,16 @@
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.csproj.AssemblyReference.cache
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.AssemblyInfoInputs.cache
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.AssemblyInfo.cs
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.csproj.CoreCompileInputs.cache
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\bin\Debug\net5.0\laborynt.exe
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\bin\Debug\net5.0\laborynt.deps.json
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\bin\Debug\net5.0\laborynt.runtimeconfig.json
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\bin\Debug\net5.0\laborynt.runtimeconfig.dev.json
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\bin\Debug\net5.0\laborynt.dll
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\bin\Debug\net5.0\ref\laborynt.dll
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\bin\Debug\net5.0\laborynt.pdb
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.dll
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\ref\laborynt.dll
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.pdb
+C:\Users\arosenius.carlander\Documents\laborynt\laborynt\laborynt\obj\Debug\net5.0\laborynt.genruntimeconfig.cache
